@@ -1,0 +1,15 @@
+/* FONT */
+
+/* COMPONENTS */
+
+@import "./header.css";
+@import "./main.css";
+
+/* RESET CSS */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "MuseoModerno", cursive;
+}
